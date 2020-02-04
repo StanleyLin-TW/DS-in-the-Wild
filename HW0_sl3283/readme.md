@@ -2,7 +2,7 @@ There are three files in the zip file:
 
 ## Instructions for running the program
 
-The program should be run in the command line with this line of code in the correct directory: 
+The program should be run in the command line with this line of code in the correct directory:    
 `spark-submit hw0_bigram.py wiki.txt bigram_count bigram_cond_prob`  
 
 To be mention, **hw0_bigram.py** and **wiki.txt** should be in the same directory, or you should specify the path to file in the line.  
