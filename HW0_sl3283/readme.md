@@ -50,7 +50,3 @@ This folder contains two files:
 
 * wiki.txt:  
 Original text file provided by the instructor.  
-
-
-# DS-in-the-Wild
-# DS-in-the-Wild
